@@ -1,0 +1,24 @@
+Number of Clients in 'Finance Lending' and 'Block Chain':
+Finance Lending: 22
+Block Chain: 25
+
+Highest renewal rate is in 'Gaming' with a rate of 0.73
+
+Average Inflation Rate for Renewed Subscriptions: 4.40
+
+Median Amount Paid Each Year by Payment Method:
+Year: 2018, Payment Method: Bank Transfer, Median Amount Paid: 281.65
+Year: 2018, Payment Method: Check, Median Amount Paid: 216.60
+Year: 2018, Payment Method: Credit Card, Median Amount Paid: 229.15
+Year: 2019, Payment Method: Bank Transfer, Median Amount Paid: 184.20
+Year: 2019, Payment Method: Check, Median Amount Paid: 410.20
+Year: 2019, Payment Method: Credit Card, Median Amount Paid: 401.90
+Year: 2020, Payment Method: Bank Transfer, Median Amount Paid: 225.10
+Year: 2020, Payment Method: Check, Median Amount Paid: 413.10
+Year: 2020, Payment Method: Credit Card, Median Amount Paid: 285.25
+Year: 2021, Payment Method: Bank Transfer, Median Amount Paid: 255.30
+Year: 2021, Payment Method: Check, Median Amount Paid: 435.10
+Year: 2021, Payment Method: Credit Card, Median Amount Paid: 208.70
+Year: 2022, Payment Method: Bank Transfer, Median Amount Paid: 196.50
+Year: 2022, Payment Method: Check, Median Amount Paid: 275.50
+Year: 2022, Payment Method: Credit Card, Median Amount Paid: 326.20
